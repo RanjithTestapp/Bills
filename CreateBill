@@ -1,0 +1,15 @@
+{
+  "billId": 0,
+  "billTypeId": 2,
+  "currencyCountryId": 1,
+  "amount": 15000,
+  "isRecurring": true,
+  "billFrequencyId": 278,
+  "billingDate": 0,
+  "dueInDays": 20,
+  "isPlatformFeeByMember": true,
+  "billUnitId": [
+    14
+  ],
+  "billStatusId": 0
+}
