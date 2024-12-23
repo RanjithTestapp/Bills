@@ -13,3 +13,20 @@
   ],
   "billStatusId": 0
 }
+
+
+{
+  "billId": 0,
+  "billTypeId": 3 ,
+  "currencyCountryId": 1,
+  "amount": 8000,
+  "isRecurring": false,
+  "billFrequencyId": 278,
+  "billingDate": 25,
+  "dueInDays": 2,
+  "isPlatformFeeByMember": true,
+  "billUnitId": [
+    32
+  ],
+  "billStatusId": 271
+}
