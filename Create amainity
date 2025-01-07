@@ -1,0 +1,13 @@
+{
+  "amenityId": 0,
+  "amenityDurationTypeName": "",
+  "currencySymbol": "",
+  "price": 5800,
+  "associationId": 12,
+  "title": "Gym Membership",
+  "location": "Bandlaguda jagir",
+  "size": "1200m",
+  "description": "Access to gym facilities, fitness classes, and personal trainers. Available 24/7",
+  "currencyCountryId": 1,
+  "amenityDurationTypeId": 290
+}
