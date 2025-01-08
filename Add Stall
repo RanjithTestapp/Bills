@@ -1,0 +1,14 @@
+{
+  "stallId": 0,
+  "associationId": 229,
+  "eventId": 225,
+  "stallNumber": "B12",
+  "typeofSpace": "OpenSpace",
+  "size": "15ft",
+  "description": "Spacious open stall located in the central courtyard",
+  "currencyCountryId": 1,
+  "perUnitPrice": 300,
+  "totalPrice": 4500,
+  "statusId": 0
+}
+
